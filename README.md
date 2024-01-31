@@ -11,6 +11,7 @@ A simple Python program using the SpeechRecognition library to recognize speech 
 Make sure you have Python installed on your machine. You can install the required dependencies using:
 
 pip install SpeechRecognition
+
 pip install pyaudio
 
 ### Ensure that the FLAC command line application is also installed. You can install it based on your operating system:
@@ -22,6 +23,7 @@ sudo apt-get install flac
 On Fedora:
 
 sudo dnf install flac
+
 On macOS (using Homebrew):
 
 brew install flac
